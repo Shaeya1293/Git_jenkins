@@ -8,6 +8,7 @@ go to gitbash
 	git init
 	git clone enter_your_github_url (repo: Git_jenkins)
 	cd Git_jenkins
+	(paste the created java file in this directory by copy paste method)
 	git add .
 	git commit -m "done"
 	git push
