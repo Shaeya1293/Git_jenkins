@@ -19,9 +19,6 @@ go to gitbash
 open localhost:8080 in chrome
 go to the red url mentioned in the page -> copy the long text -> come back to the localhost:8080 and past ethat copied text.
 install plugins
-enter your username: Shaeya1293   email: shreyaramesh31@gmail.com    pwd: IWantYouToKnow28!
-
-
 
 jenkins -> new item -> name: "sample" -> frestyle project 
 desc: "first program"
