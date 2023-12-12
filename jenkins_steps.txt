@@ -6,8 +6,7 @@ install jenkins
 create a java_jenkins folder and create a .java file in vs code.
 
 go to gitbash
-	mkdir java_jenkins (folder in system)
-	cd java_jenkins
+	cd java_jenkins (folder in system)
 	git init
 	git clone enter_your_github_url (repo: Git_jenkins)
 	cd Git_jenkins
