@@ -3,7 +3,8 @@ check for vs code, python, jdk
 	Paste JDK17 path in system environment variables-> user variables -> path -> paste the path of  JDK17
 install jenkins
 	select run as local on system 
-create a java_jenkins folder and create a .java file in vs code.
+create a java_jenkins folder 
+create a .java file in vs code.
 
 go to gitbash
 	cd java_jenkins (folder in system)
